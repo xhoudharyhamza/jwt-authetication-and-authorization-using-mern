@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&family=Lato:wght@300&family=Poppins:wght@100;300&family=Readex+Pro:wght@200&family=Roboto+Condensed:ital,wght@1,300;1,400&family=Source+Serif+Pro:wght@300&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Condensed', sans-serif;
+  overflow-x: hidden;
+}
+.signup-user{
+  padding: 50px 10px;
+}
+.signup-content{
+  display: flex;
+  justify-content: center;
+}
+.login-user{
+  padding: 70px 10px;
+}
+.login-content{
+  display: flex;
+  justify-content: center;
+}
